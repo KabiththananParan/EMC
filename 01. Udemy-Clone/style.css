@@ -46,3 +46,18 @@ body {
     align-items: center;
     gap: 10px;
 }
+
+
+.categories {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-bottom: solid black 1px;
+}
+
+.categories p {
+    background-color: #A435F0;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
