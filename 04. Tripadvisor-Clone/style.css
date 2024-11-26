@@ -11,7 +11,11 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 30px 25px;
+    margin-top: 30px;
+    padding: 10px 25px;
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
 
 .navbar__section {
@@ -85,4 +89,41 @@ body {
     border-radius: 30px;
     background-color: #84E9BD;
     font-size: 16px;
+}
+
+
+.center-img {
+    position: relative;
+}
+
+.center-img img {
+    border: none;
+    border-radius: 10px;
+}
+
+.center-img__description {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: white;
+}
+
+.center-img__description h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.center-img__description p {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.center-img__description button {
+    margin-top: 20px;
+    width: 130px;
+    height: 45px;
+    border-radius: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
 }
