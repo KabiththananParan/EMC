@@ -152,10 +152,12 @@ body {
     display: flex;
     gap: 20px;
     overflow: hidden;
+    overflow-x: scroll;
 }
 
 .container-1-section {
     position: relative;
+    cursor: pointer;
 }
 
 .container-1-section p {
@@ -169,4 +171,8 @@ body {
 
 .container-1-section img {
     border-radius: 10px;
+}
+
+.container-1-section:hover {
+    opacity: 0.8;
 }

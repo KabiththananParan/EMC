@@ -1,10 +1,11 @@
 # EMC Mern Stack Development Course Projects
 
-<h3>-> Used Languages</h3>
+<h3>-> Tech Stack</h3>
 
 <ol>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Tailwind CSS</li>
 </ol>
 
 
