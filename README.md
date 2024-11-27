@@ -6,6 +6,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Tailwind CSS</li>
+  <li>JavaScript</li>
 </ol>
 
 
