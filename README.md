@@ -7,6 +7,7 @@
   <li>CSS</li>
   <li>Tailwind CSS</li>
   <li>JavaScript</li>
+  <li>React</li>
 </ol>
 
 
